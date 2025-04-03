@@ -1,0 +1,6 @@
+To make a bus reservation, you'll need to provide the following information: 
+Departure and arrival points: The location of where the bus will leave from and where it will arrive
+Date and time: The day and time of the bus's departure and return (if applicable)
+Number of passengers: The total number of people traveling, including infants
+Bus Booking Software: Simplify Your Transportation Management
+You can make bus reservations online using a bus reservation system. These systems are available on mobile or web and allow users to create a profile and book tickets. 
